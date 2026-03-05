@@ -1,6 +1,6 @@
-# TiktokManager.git.io
+# quanlyaccount.github.io
 
-#🚀 TikTok Manager – Giải Pháp Tự Động Hóa Đăng Video TikTok 2026
+#🚀 Quản lý accounts – Giải Pháp Tự Động Hóa Đăng Video 2026
 
 Trong thời đại nội dung số bùng nổ, việc quản lý và đăng tải video TikTok đều đặn là yếu tố sống còn với cá nhân, team marketing và doanh nghiệp. Tuy nhiên, đăng thủ công từng video mỗi ngày không chỉ mất thời gian mà còn dễ sai sót.
 
